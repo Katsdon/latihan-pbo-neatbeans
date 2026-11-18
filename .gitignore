@@ -3,3 +3,6 @@ dist/
 target/
 *.class
 nbproject/private/
+/minggu-12/nbproject/private/
+/minggu_12/nbproject/private/
+/minggu_12/build/
